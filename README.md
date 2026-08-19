@@ -8,7 +8,24 @@ Instead of relying only on exact keyword matching, CareerGraph follows relations
 
 ## 🚀 Live Demo
 
-Coming soon.
+👉 [View CareerGraph Live](https://careergraph-client.onrender.com/)
+
+### Backend API
+
+👉 [CareerGraph API](https://careergraph-2y2e.onrender.com/)
+
+---
+
+
+# 📸 Screenshots
+
+## CareerGraph Dashboard
+
+![CareerGraph Dashboard](screenshots/dashboard.png)
+
+## Graph-Powered Job Recommendations
+
+![Job Recommendations](screenshots/recommendations.png)
 
 ---
 
@@ -64,6 +81,9 @@ Spring Boot
   | REQUIRES
   ↓
 Backend Developer
+```
+
+---
 
 This represents a multi-hop graph traversal:
 
