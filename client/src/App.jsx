@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:3001";
+const API_URL = "https://careergraph-2y2e.onrender.com";
 
 function App() {
   const [user, setUser] = useState(null);
